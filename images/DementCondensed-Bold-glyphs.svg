@@ -7,8 +7,8 @@
    viewBox="0 0 1170 630"
    version="1.1"
    id="svg6180"
-   sodipodi:docname="Font Sample.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="DementCondensed-Bold.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,7 +26,15 @@
      showgrid="true"
      showguides="true"
      inkscape:current-layer="layer1"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:zoom="0.25854701"
+     inkscape:cx="2080.8595"
+     inkscape:cy="951.47107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid7220"
@@ -63,7 +71,7 @@
        inkscape:label="\"><tspan
          sodipodi:role="line"
          id="tspan9650"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1107.6995"
          y="618.99963">\</tspan></text>
     <rect
@@ -84,7 +92,7 @@
        inkscape:label="|"><tspan
          sodipodi:role="line"
          id="tspan9630"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1027.3997"
          y="619.00061">|</tspan></text>
     <rect
@@ -105,7 +113,7 @@
        inkscape:label="/"><tspan
          sodipodi:role="line"
          id="tspan8367"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="927.69965"
          y="619.50159">/</tspan></text>
     <rect
@@ -126,7 +134,7 @@
        inkscape:label="]"><tspan
          sodipodi:role="line"
          id="tspan8363"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="843.09961"
          y="619.00159">]</tspan></text>
     <rect
@@ -147,7 +155,7 @@
        inkscape:label="["><tspan
          sodipodi:role="line"
          id="tspan8359"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="753.09961"
          y="619.00061">[</tspan></text>
     <rect
@@ -168,7 +176,7 @@
        inkscape:label="}"><tspan
          sodipodi:role="line"
          id="tspan8291"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="661.65082"
          y="619.00043">}</tspan></text>
     <rect
@@ -189,7 +197,7 @@
        inkscape:label="{"><tspan
          sodipodi:role="line"
          id="tspan8287"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="571.64941"
          y="619.00079">{</tspan></text>
     <rect
@@ -210,7 +218,7 @@
        inkscape:label=")"><tspan
          sodipodi:role="line"
          id="tspan8283"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="480.24951"
          y="619.80042">)</tspan></text>
     <rect
@@ -231,7 +239,7 @@
        inkscape:label="("><tspan
          sodipodi:role="line"
          id="tspan8279"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="390.34937"
          y="619.80042">(</tspan></text>
     <rect
@@ -252,7 +260,7 @@
        inkscape:label="@"><tspan
          sodipodi:role="line"
          id="tspan8251"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="286.89999"
          y="610.54993">@</tspan></text>
     <rect
@@ -273,7 +281,7 @@
        inkscape:label="?"><tspan
          sodipodi:role="line"
          id="tspan8247"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="208.74963"
          y="615.50037">?</tspan></text>
     <rect
@@ -294,7 +302,7 @@
        inkscape:label="!"><tspan
          sodipodi:role="line"
          id="tspan8243"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="126.70158"
          y="615.8504">!</tspan></text>
     <rect
@@ -315,7 +323,7 @@
        inkscape:label="#"><tspan
          sodipodi:role="line"
          id="tspan8255"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="20.700102"
          y="619.34979">#</tspan></text>
     <rect
@@ -336,7 +344,7 @@
        inkscape:label=";"><tspan
          sodipodi:role="line"
          id="tspan9674"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1117.2996"
          y="510.8996">;</tspan></text>
     <rect
@@ -357,7 +365,7 @@
        inkscape:label=":"><tspan
          sodipodi:role="line"
          id="tspan9670"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1027.1996"
          y="517.50055">:</tspan></text>
     <rect
@@ -378,7 +386,7 @@
        inkscape:label="&quot;"><tspan
          sodipodi:role="line"
          id="tspan9662"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="933.04962"
          y="554.70154">&quot;</tspan></text>
     <rect
@@ -399,7 +407,7 @@
        inkscape:label="'"><tspan
          sodipodi:role="line"
          id="tspan9666"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="847.89966"
          y="554.70154">'</tspan></text>
     <rect
@@ -420,7 +428,7 @@
        inkscape:label="`"><tspan
          sodipodi:role="line"
          id="tspan475"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="754.49963"
          y="558.9505">`</tspan></text>
     <rect
@@ -441,7 +449,7 @@
        inkscape:label="~"><tspan
          sodipodi:role="line"
          id="tspan9654"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="656.10083"
          y="521.70044">~</tspan></text>
     <rect
@@ -462,7 +470,7 @@
        inkscape:label="*"><tspan
          sodipodi:role="line"
          id="tspan8275"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="570.04938"
          y="552.75073">*</tspan></text>
     <rect
@@ -483,7 +491,7 @@
        inkscape:label="^"><tspan
          sodipodi:role="line"
          id="tspan8267"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="479.69952"
          y="552.75037">^</tspan></text>
     <rect
@@ -504,7 +512,7 @@
        inkscape:label="="><tspan
          sodipodi:role="line"
          id="tspan9646"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="384.24936"
          y="526.80042">=</tspan></text>
     <rect
@@ -525,7 +533,7 @@
        inkscape:label="-"><tspan
          sodipodi:role="line"
          id="tspan9642"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="301.99997"
          y="522.29993">-</tspan></text>
     <rect
@@ -546,7 +554,7 @@
        inkscape:label="+"><tspan
          sodipodi:role="line"
          id="tspan9638"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="204.04964"
          y="522.30035">+</tspan></text>
     <rect
@@ -567,7 +575,7 @@
        inkscape:label="&gt;"><tspan
          sodipodi:role="line"
          id="tspan9622"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="114.15159"
          y="527.80035">&gt;</tspan></text>
     <rect
@@ -588,7 +596,7 @@
        inkscape:label="&lt;"><tspan
          sodipodi:role="line"
          id="tspan9618"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="24.150099"
          y="527.79968">&lt;</tspan></text>
     <rect
@@ -609,7 +617,7 @@
        inkscape:label="%"><tspan
          sodipodi:role="line"
          id="tspan8263"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1096.049"
          y="439.49963">%</tspan></text>
     <rect
@@ -630,7 +638,7 @@
        inkscape:label="$"><tspan
          sodipodi:role="line"
          id="tspan8259"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1019.0989"
          y="439.50061">$</tspan></text>
     <rect
@@ -651,7 +659,7 @@
        inkscape:label="&amp;"><tspan
          sodipodi:role="line"
          id="tspan8271"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="922.19897"
          y="436.00159">&amp;</tspan></text>
     <rect
@@ -672,7 +680,7 @@
        inkscape:label="0"><tspan
          sodipodi:role="line"
          id="tspan8319"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="834.89899"
          y="439.00159">0</tspan></text>
     <rect
@@ -693,7 +701,7 @@
        inkscape:label="9"><tspan
          sodipodi:role="line"
          id="tspan8323"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="745.69897"
          y="439.05063">9</tspan></text>
     <rect
@@ -714,7 +722,7 @@
        inkscape:label="8"><tspan
          sodipodi:role="line"
          id="tspan8327"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="655.70013"
          y="438.95047">8</tspan></text>
     <rect
@@ -735,7 +743,7 @@
        inkscape:label="7"><tspan
          sodipodi:role="line"
          id="tspan8331"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="566.04871"
          y="439.00079">7</tspan></text>
     <rect
@@ -756,7 +764,7 @@
        inkscape:label="6"><tspan
          sodipodi:role="line"
          id="tspan8335"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="475.69888"
          y="439.05045">6</tspan></text>
     <rect
@@ -777,7 +785,7 @@
        inkscape:label="5"><tspan
          sodipodi:role="line"
          id="tspan8339"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="384.89871"
          y="438.90042">5</tspan></text>
     <rect
@@ -798,7 +806,7 @@
        inkscape:label="4"><tspan
          sodipodi:role="line"
          id="tspan8343"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="293.89935"
          y="438.99997">4</tspan></text>
     <rect
@@ -819,7 +827,7 @@
        inkscape:label="3"><tspan
          sodipodi:role="line"
          id="tspan8347"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="205.74901"
          y="438.8504">3</tspan></text>
     <rect
@@ -840,7 +848,7 @@
        inkscape:label="2"><tspan
          sodipodi:role="line"
          id="tspan8351"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="115.60094"
          y="439.1004">2</tspan></text>
     <rect
@@ -861,7 +869,7 @@
        inkscape:label="1"><tspan
          sodipodi:role="line"
          id="tspan8355"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="29.449451"
          y="438.99976">1</tspan></text>
     <rect
@@ -882,7 +890,7 @@
        inkscape:label="z"><tspan
          sodipodi:role="line"
          id="tspan7643"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1111.799"
          y="340.49966">z</tspan></text>
     <rect
@@ -903,7 +911,7 @@
        inkscape:label="y"><tspan
          sodipodi:role="line"
          id="tspan7639"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1019.299"
          y="340.50064">y</tspan></text>
     <rect
@@ -924,7 +932,7 @@
        inkscape:label="x"><tspan
          sodipodi:role="line"
          id="tspan7635"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="928.99896"
          y="340.55161">x</tspan></text>
     <rect
@@ -945,7 +953,7 @@
        inkscape:label="w"><tspan
          sodipodi:role="line"
          id="tspan7631"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="833.89899"
          y="340.50162">w</tspan></text>
     <rect
@@ -966,7 +974,7 @@
        inkscape:label="v"><tspan
          sodipodi:role="line"
          id="tspan7627"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="748.79895"
          y="340.50064">v</tspan></text>
     <rect
@@ -987,7 +995,7 @@
        inkscape:label="u"><tspan
          sodipodi:role="line"
          id="tspan7623"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="657.40015"
          y="339.75052">u</tspan></text>
     <rect
@@ -1008,7 +1016,7 @@
        inkscape:label="t"><tspan
          sodipodi:role="line"
          id="tspan7619"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="569.99872"
          y="340.50082">t</tspan></text>
     <rect
@@ -1029,7 +1037,7 @@
        inkscape:label="s"><tspan
          sodipodi:role="line"
          id="tspan7615"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="481.89886"
          y="340.65048">s</tspan></text>
     <rect
@@ -1050,7 +1058,7 @@
        inkscape:label="r"><tspan
          sodipodi:role="line"
          id="tspan7611"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="389.09872"
          y="340.50049">r</tspan></text>
     <rect
@@ -1071,7 +1079,7 @@
        inkscape:label="q"><tspan
          sodipodi:role="line"
          id="tspan7607"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="299.89932"
          y="340.35614">q</tspan></text>
     <rect
@@ -1092,7 +1100,7 @@
        inkscape:label="p"><tspan
          sodipodi:role="line"
          id="tspan7603"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="209.299"
          y="340.50043">p</tspan></text>
     <rect
@@ -1113,7 +1121,7 @@
        inkscape:label="o"><tspan
          sodipodi:role="line"
          id="tspan7599"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="119.90094"
          y="340.45041">o</tspan></text>
     <rect
@@ -1134,7 +1142,7 @@
        inkscape:label="n"><tspan
          sodipodi:role="line"
          id="tspan7595"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="27.449453"
          y="340.49979">n</tspan></text>
     <rect
@@ -1155,7 +1163,7 @@
        inkscape:label="m"><tspan
          sodipodi:role="line"
          id="tspan7591"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1104.7993"
          y="250.50082">m</tspan></text>
     <rect
@@ -1176,7 +1184,7 @@
        inkscape:label="l"><tspan
          sodipodi:role="line"
          id="tspan7587"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1020.6494"
          y="250.5018">l</tspan></text>
     <rect
@@ -1197,7 +1205,7 @@
        inkscape:label="k"><tspan
          sodipodi:role="line"
          id="tspan7583"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="925.59943"
          y="250.50278">k</tspan></text>
     <rect
@@ -1218,7 +1226,7 @@
        inkscape:label="j"><tspan
          sodipodi:role="line"
          id="tspan7579"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="842.4494"
          y="250.50278">j</tspan></text>
     <rect
@@ -1239,7 +1247,7 @@
        inkscape:label="i"><tspan
          sodipodi:role="line"
          id="tspan7575"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="755.74939"
          y="250.5018">i</tspan></text>
     <rect
@@ -1260,7 +1268,7 @@
        inkscape:label="h"><tspan
          sodipodi:role="line"
          id="tspan7571"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="657.50055"
          y="250.50165">h</tspan></text>
     <rect
@@ -1281,7 +1289,7 @@
        inkscape:label="g"><tspan
          sodipodi:role="line"
          id="tspan7567"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="569.79913"
          y="250.40198">g</tspan></text>
     <rect
@@ -1302,7 +1310,7 @@
        inkscape:label="f"><tspan
          sodipodi:role="line"
          id="tspan7563"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="480.7493"
          y="250.50162">f</tspan></text>
     <rect
@@ -1323,7 +1331,7 @@
        inkscape:label="e"><tspan
          sodipodi:role="line"
          id="tspan7559"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="390.74915"
          y="250.50162">e</tspan></text>
     <rect
@@ -1344,7 +1352,7 @@
        inkscape:label="d"><tspan
          sodipodi:role="line"
          id="tspan7555"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="298.29977"
          y="250.50114">d</tspan></text>
     <rect
@@ -1365,7 +1373,7 @@
        inkscape:label="c"><tspan
          sodipodi:role="line"
          id="tspan7551"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="211.6994"
          y="250.55159">c</tspan></text>
     <rect
@@ -1386,7 +1394,7 @@
        inkscape:label="b"><tspan
          sodipodi:role="line"
          id="tspan7547"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="118.40135"
          y="250.50159">b</tspan></text>
     <rect
@@ -1407,7 +1415,7 @@
        inkscape:label="a"><tspan
          sodipodi:role="line"
          id="tspan7543"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="28.599867"
          y="250.50095">a</tspan></text>
     <rect
@@ -1428,7 +1436,7 @@
        inkscape:label="Z"><tspan
          sodipodi:role="line"
          id="tspan7513"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1108.8993"
          y="169.00082">Z</tspan></text>
     <rect
@@ -1449,7 +1457,7 @@
        inkscape:label="Y"><tspan
          sodipodi:role="line"
          id="tspan7509"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="1014.8994"
          y="169.0018">Y</tspan></text>
     <rect
@@ -1470,7 +1478,7 @@
        inkscape:label="X"><tspan
          sodipodi:role="line"
          id="tspan7505"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="925.89941"
          y="169.00278">X</tspan></text>
     <rect
@@ -1491,7 +1499,7 @@
        inkscape:label="W"><tspan
          sodipodi:role="line"
          id="tspan7501"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="827.49939"
          y="169.00278">W</tspan></text>
     <rect
@@ -1512,7 +1520,7 @@
        inkscape:label="V"><tspan
          sodipodi:role="line"
          id="tspan7497"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="743.64941"
          y="169.0018">V</tspan></text>
     <rect
@@ -1533,7 +1541,7 @@
        inkscape:label="U"><tspan
          sodipodi:role="line"
          id="tspan7493"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="652.90057"
          y="168.85165">U</tspan></text>
     <rect
@@ -1554,7 +1562,7 @@
        inkscape:label="T"><tspan
          sodipodi:role="line"
          id="tspan7489"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="567.09918"
          y="169.35197">T</tspan></text>
     <rect
@@ -1575,7 +1583,7 @@
        inkscape:label="S"><tspan
          sodipodi:role="line"
          id="tspan7485"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="478.69931"
          y="169.15161">S</tspan></text>
     <rect
@@ -1596,7 +1604,7 @@
        inkscape:label="R"><tspan
          sodipodi:role="line"
          id="tspan7481"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="384.74915"
          y="169.00162">R</tspan></text>
     <rect
@@ -1617,7 +1625,7 @@
        inkscape:label="Q"><tspan
          sodipodi:role="line"
          id="tspan7477"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="296.19977"
          y="169.06364">Q</tspan></text>
     <rect
@@ -1638,7 +1646,7 @@
        inkscape:label="P"><tspan
          sodipodi:role="line"
          id="tspan7473"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="204.94942"
          y="169.00159">P</tspan></text>
     <rect
@@ -1659,7 +1667,7 @@
        inkscape:label="O"><tspan
          sodipodi:role="line"
          id="tspan7469"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="116.20135"
          y="169.00159">O</tspan></text>
     <rect
@@ -1680,7 +1688,7 @@
        inkscape:label="N"><tspan
          sodipodi:role="line"
          id="tspan7465"
-         style="stroke-width:0.25"
+         style="stroke-width:0.25;font-weight:bold"
          x="22.499872"
          y="169.00095">N</tspan></text>
     <rect
@@ -1701,7 +1709,7 @@
        inkscape:label="M"><tspan
          sodipodi:role="line"
          id="tspan7396"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="1099.0995"
          y="78.999825">M</tspan></text>
     <rect
@@ -1722,7 +1730,7 @@
        inkscape:label="L"><tspan
          sodipodi:role="line"
          id="tspan7392"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="1016.3995"
          y="79.000801">L</tspan></text>
     <rect
@@ -1743,7 +1751,7 @@
        inkscape:label="K"><tspan
          sodipodi:role="line"
          id="tspan7426"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="921.04956"
          y="79.001778">K</tspan></text>
     <rect
@@ -1764,7 +1772,7 @@
        inkscape:label="J"><tspan
          sodipodi:role="line"
          id="tspan7384"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="839.24957"
          y="79.001778">J</tspan></text>
     <rect
@@ -1785,7 +1793,7 @@
        inkscape:label="I"><tspan
          sodipodi:role="line"
          id="tspan7349"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="753.09955"
          y="79.000801">I</tspan></text>
     <rect
@@ -1806,7 +1814,7 @@
        inkscape:label="H"><tspan
          sodipodi:role="line"
          id="tspan7345"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="651.70074"
          y="79.000648">H</tspan></text>
     <rect
@@ -1827,7 +1835,7 @@
        inkscape:label="G"><tspan
          sodipodi:role="line"
          id="tspan7341"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="565.79932"
          y="79.100983">G</tspan></text>
     <rect
@@ -1848,7 +1856,7 @@
        inkscape:label="F"><tspan
          sodipodi:role="line"
          id="tspan7337"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="476.59949"
          y="79.000618">F</tspan></text>
     <rect
@@ -1869,7 +1877,7 @@
        inkscape:label="E"><tspan
          sodipodi:role="line"
          id="tspan7333"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="386.59933"
          y="79.000618">E</tspan></text>
     <rect
@@ -1890,7 +1898,7 @@
        inkscape:label="D"><tspan
          sodipodi:role="line"
          id="tspan7304"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="293.74997"
          y="79.000145">D</tspan></text>
     <rect
@@ -1911,7 +1919,7 @@
        inkscape:label="C"><tspan
          sodipodi:role="line"
          id="tspan7300"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="207.79961"
          y="79.050591">C</tspan></text>
     <rect
@@ -1932,7 +1940,7 @@
        inkscape:label="B"><tspan
          sodipodi:role="line"
          id="tspan7400"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="113.80156"
          y="79.000587">B</tspan></text>
     <rect
@@ -1953,8 +1961,20 @@
        inkscape:label="A"><tspan
          sodipodi:role="line"
          id="tspan7288"
-         style="font-size:100px;stroke-width:0.25"
+         style="font-size:100px;stroke-width:0.25;font-weight:bold"
          x="24.100069"
          y="78.999947">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:99.9999px;line-height:1;font-family:'Dement Condensed';-inkscape-font-specification:'Dement Condensed, Normal';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.25"
+       x="1107.6995"
+       y="618.99963"
+       id="text1165"
+       inkscape:label="\"><tspan
+         sodipodi:role="line"
+         id="tspan1163"
+         style="stroke-width:0.25;font-weight:bold"
+         x="1107.6995"
+         y="618.99963">\</tspan></text>
   </g>
 </svg>
