@@ -1,5 +1,11 @@
 # Samples
 
+<img src='./images/DementCondensed-Bold.svg' />
+
+<img src='./images/DementCondensed-Bold-glyphs.svg' />
+
+<img src='./images/spacer.svg' />
+
 <img src='./images/DementCondensed-Regular.svg' />
 
 <img src='./images/DementCondensed-Regular-glyphs.svg' />
